@@ -1,3 +1,5 @@
-# sqlite3 is part of Python's standard library and typically doesn't need to be installed separately.
+bcrypt  # For password hashing
+
+# sqlite3 is part of Python's standard library and doesn't need to be installed separately.
 # However, if you want to explicitly list it or are working in environments where it's not included:
 sqlite3
